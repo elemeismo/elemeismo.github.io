@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0;}
+.container {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-color: bisque;
+}
+.amo {padding-top: 150px;}
+.amo span {color: red;}
